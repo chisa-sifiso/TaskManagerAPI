@@ -30,9 +30,7 @@
 
 <h3>Steps to Run</h3>
 <ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/TaskManagerAPI.git</code></pre>
-  </li>
+ 
   <li>Open the project in IntelliJ IDEA.</li>
   <li>Run the application.</li>
   <li>Access the API at <code>http://localhost:8080/api/tasks</code>.</li>
