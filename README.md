@@ -79,6 +79,7 @@
 
 <h2>📄 License</h2>
 <p>This project is licensed under the MIT License.</p>
+<h4>developed by sifiso vinjwa</h4>
 
 </body>
 </html>
